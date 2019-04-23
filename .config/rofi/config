@@ -1,0 +1,4 @@
+rofi.combi-modi: drun,run
+rofi.font: iosevka 12
+rofi.modi: combi
+rofi.theme: /usr/share/rofi/themes/Arc.rasi
