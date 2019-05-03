@@ -1,0 +1,13 @@
+antigen use oh-my-zsh
+
+antigen bundles <<EOBUNDLES
+  git
+  zsh-users/zsh-syntax-highlighting
+  zsh-users/zsh-autosuggestions
+  zsh-users/zsh-completions
+  lukechilds/zsh-nvm
+EOBUNDLES
+
+antigen theme agnoster
+
+antigen apply
