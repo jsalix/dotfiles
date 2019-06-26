@@ -40,6 +40,7 @@ gaps top 44
 
 # custom per-window settings
 for_window [class="qjackctl"] floating enable
+for_window [title="Android Emulator"] floating enable
 
 focus_follows_mouse no
 
