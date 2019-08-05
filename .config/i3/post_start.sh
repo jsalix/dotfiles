@@ -2,7 +2,7 @@
 
 /usr/bin/dunst &
 /usr/bin/nitrogen --restore &
-/usr/bin/mullvad-vpn &
+#/usr/bin/mullvad-vpn &
 /usr/bin/blueman-applet &
 /usr/bin/pasystray &
 /usr/bin/udiskie --no-notify --tray &
