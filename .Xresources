@@ -1,11 +1,11 @@
 ! special
-*.foreground:   #3d3d3d
-*.background:   #fafafa
-*.cursorColor:  #3d3d3d
+*.foreground:   #fafafa
+*.background:   #3d3d3d
+*.cursorColor:  #fafafa
 
 ! black
-*.color0:       #fafafa
-*.color8:       #382929
+*.color0:       #382929
+*.color8:       #fafafa
 
 ! red
 *.color1:       #e10000
@@ -32,8 +32,8 @@
 *.color14:      #dc3d29
 
 ! white
-*.color7:       #838383
-*.color15:      #3b3b3b
+*.color7:       #3b3b3b
+*.color15:      #838383
 
 
 urxvt.depth: 32

@@ -17,17 +17,15 @@
 ;==========================================================
 
 [colors]
-;background = ${xrdb:background:#282934}
-background = #fafafa
-background-alt = #11000000
-foreground = #222222
-;foreground = ${xrdb:foreground:#C1EBFF}
+background = ${xrdb:background:#3d3d3d}
+background-alt = #113d3d3d
+foreground = ${xrdb:foreground:#fafafa}
 foreground-alt = #9AEDFE
-primary = ${xrdb:color10:#50FA7B}
-secondary = ${xrdb:color8:#8BE9FD}
-third = ${xrdb:color11:#9f78e1}
-active = ${xrdb:color13:#FFE814}
-alert = ${xrdb:color9:#FF6E67}
+primary = ${xrdb:color1:#50FA7B}
+secondary = ${xrdb:color10:#8BE9FD}
+third = ${xrdb:color6:#9f78e1}
+active = ${xrdb:color2:#FFE814}
+alert = ${xrdb:color13:#FF6E67}
 
 [bar/default]
 monitor =
@@ -49,8 +47,8 @@ line-color = #00
 ;border-left-size = 14
 ;border-right-size = 14
 ;border-bottom-size = 0
-border-size = 1
-border-color = #ccc
+;border-size = 1
+;border-color = #ccc
 
 padding-left = 0
 padding-right = 2
